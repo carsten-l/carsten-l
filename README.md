@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 |:------------------|:-------------------------------------------------------------------------------------------|
 | *Frontend*        | HTML · CSS · JavaScript · TypeScript · React.js · Next.js · React Router · SASS · Tailwind |
 | *Backend*         | Node.js · Express · Hono · Prisma ORM · Drizzle ORM · Mongoose · REST APIs                 |
-| *Tooling*         | Git · GitHub · Vite · ESLint · Prettier · Zod · Tanstack Query                             |
+| *Tooling*         | Git · GitHub · Vite · ESLint · Prettier · Zod · Tanstack Query · Docker                    |
 | *Testing*         | Jest · Testing Library · Vitest                                                            |
 | *Databases*       | mySQL · PostgreSQL · SQLite · MongoDB · SupaBase                                           |
 | *Project Mgmt*    | Agile (SCRUM / Kanban) · Trello · Notion                                                   |
