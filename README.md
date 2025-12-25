@@ -19,18 +19,13 @@ Here are some ideas to get you started:
 
 
 
-
-
-- 🔭 I’m currently working on a time registration software project
-- 🌱 I’m currently learning Docker
-
 ## I know stuff about
 
 | Category          | Tech                                                                                       |
 |:------------------|:-------------------------------------------------------------------------------------------|
-| *Frontend*        | HTML · CSS · JavaScript · TypeScript · React.js · Next.js · React Router · SASS · Tailwind |
+| *Frontend*        | HTML · CSS · JavaScript · TypeScript · React.js · Next.js · React Router · Tanstack Router · SASS · Tailwind |
 | *Backend*         | Node.js · Express · Hono · Prisma ORM · Drizzle ORM · Mongoose · REST APIs                 |
-| *Tooling*         | Git · GitHub · Vite · ESLint · Prettier · Zod · Tanstack Query · Docker                    |
+| *Tooling*         | Docker · ESLint · Git · GitHub · Prettier · Tanstack Query · Vite · Zod · Zustand    |
 | *Testing*         | Jest · Testing Library · Vitest                                                            |
 | *Databases*       | mySQL · PostgreSQL · SQLite · MongoDB · SupaBase                                           |
 | *Project Mgmt*    | Agile (SCRUM / Kanban) · Trello · Notion                                                   |
