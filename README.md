@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 | Category          | Tech                                                                                       |
 |:------------------|:-------------------------------------------------------------------------------------------|
-| *Frontend*        | HTML · CSS · JavaScript · TypeScript · React.js · Next.js · React Router · Tanstack Router · SASS · Tailwind |
+| *Frontend*        | HTML · CSS · JavaScript · TypeScript · React.js · Next.js · Astro · Vue · React Router · Tanstack Router · SASS · Tailwind |
 | *Backend*         | Node.js · Express · Hono · Prisma ORM · Drizzle ORM · Mongoose · REST APIs                 |
 | *Tooling*         | Docker · ESLint · Git · GitHub · Prettier · Tanstack Query · Vite · Zod · Zustand          |
 | *Testing*         | Jest · Testing Library · Vitest · Playwright                                               |
